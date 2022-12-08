@@ -297,7 +297,7 @@ params:
           name: Demo
           #link: https://vadiraj-13.github.io/lab-in-vr.github.io/
           name: Read More
-          link: http://localhost:1313/blogs/vrblog/
+          link: https://vra-ml.netlify.app/blogs/vrblog/
         badges:
           - "Virtual Reality"
           - "Remote Learning"
