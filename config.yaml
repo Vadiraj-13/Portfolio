@@ -98,8 +98,7 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Vadiraj-13
-        - icon: fab fa-github
-          url: https://github.com/Vadiraj-13
+        
 
   # About
   about:
@@ -295,8 +294,8 @@ params:
         content: In which Indian city, the flats are most expensive?
         image: /images/projects/real-estate.jpg
         featured:
-          name: Read More
-          link: https://vra-ml.netlify.app/blogs/vrblog/
+          name: Open
+          link: https://vra-ml.netlify.app/blogs/housingEDA/
         badges:
           - "Data Wrangling"
           - "Data Analysis"
@@ -331,7 +330,7 @@ params:
         image: /images/projects/a.jpg
         featured:
           name: Read More
-          link: https://vra-ml.netlify.app/blogs/tic_tac_toe_blog/
+          link: https://vra-ml.netlify.app/blogs/tic_tac_toe/
         badges:
           - "Python"
           - "Interactive Game"
