@@ -328,7 +328,7 @@ params:
         
       - title: Tic Tac Toe
         content: The infamous tic tac toe game built using Python!
-        image: /images/projects/a1.jpg
+        image: /images/projects/a2.jpg
         featured:
           name: Open
           link: https://vra-ml.netlify.app/blogs/tic_tac_toe/
