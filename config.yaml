@@ -289,7 +289,24 @@ params:
       #     - icon: fab fa-twitter
       #       url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      
+      - title: Bank Marketing Campaign
+        content: How to store and process data in a distributed way so that it can be used for marketing campaign by a bank? 
+        image: /images/projects/bank.png
+        featured:
+          name: Open
+          link: https://vra-ml.netlify.app/blogs/bankcampaign
+        badges:
+          - "Hadoop"
+          - "Spark"
+          - "Hive"
+          - "Dataproc"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/Vadiraj-13/bank-campaign      
+
+
+
+
       - title: Exploratory Data Analysis on housing data
         content: In which Indian city, the flats are most expensive?
         image: /images/projects/real-estate.jpg
@@ -309,27 +326,11 @@ params:
             url: https://github.com/Vadiraj-13/housing-EDA
       
         
-
-
-      - title: Virtual Reality Lab
-        content: Can remote lab learning experience be enhanced using Virtual Reality? 
-        image: /images/projects/bg.jpg
-        featured:
-          #name: Demo
-          #link: https://vadiraj-13.github.io/lab-in-vr.github.io/
-          name: Read More
-          link: https://vra-ml.netlify.app/blogs/vrblog/
-        badges:
-          - "Virtual Reality"
-          - "Remote Learning"
-          - "Animation"
-          - "Digital Electronics"
-
       - title: Tic Tac Toe
         content: The infamous tic tac toe game built using Python!
         image: /images/projects/a.jpg
         featured:
-          name: Read More
+          name: Open
           link: https://vra-ml.netlify.app/blogs/tic_tac_toe/
         badges:
           - "Python"
@@ -339,11 +340,26 @@ params:
           - icon: fab fa-github
           - url: https://github.com/Vadiraj-13/Tic-tac-toe-Python-project
 
+      - title: Virtual Reality Lab
+        content: Can remote lab learning experience be enhanced using Virtual Reality? 
+        image: /images/projects/bg.jpg
+        featured:
+          #name: Demo
+          #link: https://vadiraj-13.github.io/lab-in-vr.github.io/
+          name: Open
+          link: https://vra-ml.netlify.app/blogs/vrblog/
+        badges:
+          - "Virtual Reality"
+          - "Remote Learning"
+          - "Animation"
+          - "Digital Electronics"
+
+
       - title: MSL 2.0
-        content: The main aim of this project is to provide an alternative and inexpensive solution to automation of lights using a PIR sensor.
+        content: 
         image: /images/projects/msl.jpg
         featured:
-          name: Read more
+          name: Open
           link: https://django-converter.herokuapp.com
         badges:
           - "Hardware Project"
@@ -354,7 +370,7 @@ params:
         content: A robotic arm with precise angular displacement that can be used in multiple industrial applications like welding, surgery etc.
         image: /images/projects/ra.jpg
         featured:
-          name: Read more
+          name: Open
           link: https://django-converter.herokuapp.com
         badges:
           - "Robotic Arm"
