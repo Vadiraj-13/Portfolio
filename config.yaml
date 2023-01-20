@@ -5,11 +5,11 @@ theme: hugo-profile
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
+    # - identifier: blog
+    #   name: Blog
+    #   title: Blog posts
+    #   url: /blogs
+    #   weight: 1
     
     # - identifier: gallery
     #   name: Gallery
@@ -328,7 +328,7 @@ params:
         
       - title: Tic Tac Toe
         content: The infamous tic tac toe game built using Python!
-        image: /images/projects/a.jpg
+        image: /images/projects/a1.jpg
         featured:
           name: Open
           link: https://vra-ml.netlify.app/blogs/tic_tac_toe/
@@ -360,7 +360,7 @@ params:
         image: /images/projects/msl.jpg
         featured:
           name: Open
-          link: https://django-converter.herokuapp.com
+          link: https://vra-ml.netlify.app/blogs/msl/
         badges:
           - "Hardware Project"
           - "Automation"
@@ -371,7 +371,7 @@ params:
         image: /images/projects/ra.jpg
         featured:
           name: Open
-          link: https://django-converter.herokuapp.com
+          link: https://vra-ml.netlify.app/blogs/ra/
         badges:
           - "Robotic Arm"
           - "Servo Motor"
