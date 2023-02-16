@@ -289,6 +289,23 @@ params:
       #     - icon: fab fa-twitter
       #       url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
+      - title: Predicting centuries in cricket
+        content: How to beat Sachin's record of 100 100s!? 
+        image: /images/projects/cricket.png
+        featured:
+          name: Open
+          link: https://vra-ml.netlify.app/blogs/centuries
+        badges:
+          - "Machine Learning"
+          - "Regression"
+          - "Multiple Linear Regression"
+          - "Support Vector Regression"
+          - "Decision Tree regression"
+          - "Random Forest Regression"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/Vadiraj-13/Predicting-centuries-in-cricket/
+
       - title: Bank Marketing Campaign
         content: How to store and process data in a distributed way so that it can be used for marketing campaign by a bank? 
         image: /images/projects/bank.png
