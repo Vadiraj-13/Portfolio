@@ -22,6 +22,21 @@ How to beat Sachin's record of 100 100s!?
 A data cleaning and visualisation was performed on a dataset containing cricketers with most runs in all formats.
 Through correlation, useful features were extracted and different types of regression models were trained to accurately predict the number of centuries a batter can score at the end of his career.
 
+Columns \
+Player:- Player Name \
+Span :- Total time period \
+Mat :- Total Matches played by player \
+Inns :- Total innings \
+NO :- Total Not out \
+Runs :- Total runs \
+HS :- Highest Run in a innings \
+Ave :- Average of batting \
+BF :- Total Ball faced \
+start year :- Starting Year \ 
+end year :- Ending Year \
+no of years played :- Experience
+
+
 Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 
