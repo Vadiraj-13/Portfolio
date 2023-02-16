@@ -10,10 +10,8 @@ tags:
     - "Support Vector Regression"
     - "Decision Tree regression"
     - "Random Forest Regression"
-image: /images/cricket.png
+image: /images/cricket1.jpg
 ---
-
-# Predicting-centuries-in-cricket
 
 ### 🔗 [GitHub](https://github.com/Vadiraj-13/Predicting-centuries-in-cricket/)
 
@@ -40,9 +38,9 @@ no of years played :- Experience
 Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 
-#### Correlation Heatmap
+#### Heatmap
 
-![image](/centuries_heat.png)
+![image](/projects/predicting_centuries/centuries_heat.jpg)
 
 
 #### Observations through correlations
@@ -57,7 +55,7 @@ Technology used: Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 #### Paiplot on filtered dataset
 
-![image](/centuries_pair.png)
+![image](/projects/predicting_centuries/centuries_pair.png)
 
 The filtered dataset was trained with Multiple Linear Regression, Support Vector Regression, Decision Tree Regression and Random forest regression.
 

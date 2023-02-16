@@ -291,7 +291,7 @@ params:
 
       - title: Predicting centuries in cricket
         content: How to beat Sachin's record of 100 100s!? 
-        image: /images/projects/cricket.png
+        image: /images/projects/cricket1.jpg
         featured:
           name: Open
           link: https://vra-ml.netlify.app/blogs/centuries
