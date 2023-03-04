@@ -87,8 +87,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Vadiraj Adabaddi"
-    subtitle: "I am passionate about Big Data, Data Analysis and Data Science"
-    content: "I am working as an Automation Test Engineer at Capgemini. Along with automation testing, I have built a portfolio in Big Data and Data Science technologies. I have completed my  BE in Electronics & Communication Engineering from BMSIT Bangalore."
+    subtitle: "Tech Enthusiast"
+    content: "Currently I am working as an Automation Engineer at Capgemini. I have completed my BE in Electronics & Communication Engineering from BMSIT Bangalore in 2021. I do Data Analysis and Machine Learning projects for fun."
     image: /images/profile photo.jpg
     button:
       enable: false
@@ -105,7 +105,7 @@ params:
     enable: false
     title: "About Me"
     content: |-
-      # I am working as an Automation Test Engineer at Capgemini. Along with automation testing, I have built a portfolio in Big Data and Data Science technologies. I have completed my  BE in Electronics & Communication Engineering from BMSIT Bangalore.
+      # I am working as an Automation Engineer at Capgemini. Along with automation testing, I have built a portfolio in Big Data and Data Science technologies. I have completed my  BE in Electronics & Communication Engineering from BMSIT Bangalore.
       # I am working on a project that focuses on web automation using selenium with python and behave.
       # I have basic understanding of Azure.
       # Apart from testing, I am also interested in Data Science and Machine Learning.
@@ -128,7 +128,7 @@ params:
   experience:
     enable: true
     items:
-      - job: "Automation Test Engineer"
+      - job: "Automation Engineer"
         company: "Capgemini"
         #companyUrl: "None"
         date: "Sep 2021 - Present"
@@ -137,9 +137,8 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-          - Developed a Behaviour-Driven Development(BDD) test automation framework using selenium with python for regression tests
-          - Involved in the preparation of test cases as per the acceptance criteria
-          - Achieved certifications in automation testing
+          - Developed automated solutions using python to reduce manual intervention.
+          - Achieved certifications in automation.
 
 
       # - job: "Software Developer"
