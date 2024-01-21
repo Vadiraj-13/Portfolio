@@ -88,10 +88,10 @@ params:
     intro: "Hi, my name is"
     title: "Vadiraj Adabaddi"
     subtitle: "Automation Engineer"
-    content: "I'm an ambitious automation engineer having 2 years of experience in the automation industry. I am a Bachelor of Engineering professional,
-    skilled in test automation. To enhance my expertise I have achieved certification in 'Microsoft Certified: Azure Fundamentals'. 
-    Currently, I am looking for opportunities as an Automation developer, Software engineer, Test engineer, QA Engineer
-    or as an SDET."
+    content: "I'm an ambitious automation engineer having 2 years of experience in the automation industry. 
+    Having a Bachelor of Engineering degree, I'm skilled in software testing (Manual and Automation). 
+    To enhance my expertise I have achieved certification in 'Microsoft Certified: Azure Fundamentals'. 
+    Currently, I am looking for opportunities as an Automation developer, Software engineer, Test engineer, QA Engineer or as an SDET."
     #I have also explored other fields like Data Engineering and Data science and Machine learning out of own interest and have worked on few projects in these fields, independtly.
     image: /images/profile photo.jpg
     button:
