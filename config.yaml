@@ -17,24 +17,6 @@ Menus:
     #   url: /gallery
     #   weight: 0
 
-    # Dropdown menu
-    # - identifier: dropdown
-    #   title: Example dropdown menu
-    #   name: Dropdown
-    #   weight: 3
-    # - identifier: dropdown1
-    #   title: example dropdown 1
-    #   name: example 1
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 1
-    # - identifier: dropdown2
-    #   title: example dropdown 2
-    #   name: example 2
-    #   url: /#
-    #   parent: dropdown
-    #   weight: 2
-
 params:
   title: "Vadiraj Raghavendra Adabaddi"
   description: My Portfolio Site
@@ -43,7 +25,7 @@ params:
 
   theme:
     disableThemeToggle: false
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -88,10 +70,8 @@ params:
     intro: "Hi, my name is"
     title: "Vadiraj Adabaddi"
     subtitle: "Automation Engineer"
-    content: "I'm an ambitious automation engineer having 2 years of experience in the automation industry. 
-    Having a Bachelor of Engineering degree, I'm skilled in software testing (Manual and Automation). 
-    To enhance my expertise I have achieved certification in 'Microsoft Certified: Azure Fundamentals'. 
-    Currently, I am looking for opportunities as an Automation developer, Software engineer, Test engineer, QA Engineer or as an SDET."
+    content: "Skilled programmer with 2 years of industry experience in QA automation. Experienced in crafting framework-level test automation scripts for both desktop and web applications.
+    Committed to continuous improvement, I have obtained certification in 'Microsoft Certified: Azure Fundamentals' to further elevate my skill set. I am currently seeking opportunities in roles such as Automation Developer, Software Engineer, Test Engineer, QA Engineer, or SDET."
     #I have also explored other fields like Data Engineering and Data science and Machine learning out of own interest and have worked on few projects in these fields, independtly.
     image: /images/profile photo.jpg
     button:
@@ -106,28 +86,24 @@ params:
 
   # About
   about:
-    enable: false
-    title: "About Me"
+    enable: true
+    title: "Skills"
     content: |-
 
-      # I am working as an Automation Engineer at Capgemini. Along with automation testing, I have built a portfolio in Big Data and Data Science technologies. I have completed my  BE in Electronics & Communication Engineering from BMSIT Bangalore.
-      # I am working on a project that focuses on web automation using selenium with python and behave.
-      # I have basic understanding of Azure.
-      # Apart from testing, I am also interested in Data Science and Machine Learning.
     skills:
       enable: True
-      title: "Here are a few tools and technologies I've worked with:"
+      # title: "Expertise"
       items:
         - "Python"
         - "Selenium"
-        - "behave"
-        - "JIRA"
-        - "Jupyter Notebook"
+        - "requests"
+        - "API testing"
+        - "BDD Framework"
+        - "Postman"
+        - "Microsoft Azure"
         - "Pycharm"
         - "Git"
         - "Github"
-
-
 
   # Experience
   experience:
@@ -142,13 +118,13 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-              -   Designed and developed a BDD automation framework using python and selenium.
-              -   Developed regression suites using python and  pywinauto (a python framework for testing desktop applications), effectively reducing testing time by 50%.
-              -   Responsible for executing smoke test, regression and business critical scenarios scripts and sharing the results with the respective team.
-              -   Actively engaged with the manual testing team to understand the requirements of the test scenarios.
-              -   Developed the test cases and translated the test cases to scenarios using gherkin language for developing the framework.
-              -   Involved in updating the framework as per the changing application user-interface and features in every release.
-              -   Leveraged my python scripting skills and built automation solutions.
+              - Enhanced automation efficiency by optimizing the codebase, leading to more rapid and effective code execution
+              - Utilized python development skills to implement a robust solution for parsing tax invoice PDFs, significantly reducing the need for manual intervention
+              - Developed automation regression suites utilizing python and Behavior Driven Development (BDD) Framework to thoroughly test a desktop application, resulting in a significant 50% reduction in testing time
+              - Led the execution of smoke tests, regression tests, and business critical scenarios (BCS) automation scripts, ensuring comprehensive coverage of critical functionalities. Effectively communicated test results to relevant teams, facilitating timely decision-making and issue resolution
+              - Collaborated closely with the manual testing team to gain in-depth insights into test scenario requirements, fostering effective communication and alignment between automated and manual testing efforts
+              - Played a key role in the continuous improvement of the automation framework by proactively updating it to accommodate changes in the application's user interface and features with each release cycle
+
 
 
       # - job: "Software Developer"
