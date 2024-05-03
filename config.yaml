@@ -279,7 +279,7 @@ params:
         image: /images/projects/cricket1.jpg
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/centuries
+          link: https:/vadiraj-tau.netlify.app/blogs/centuries
         badges:
           - "Machine Learning"
           - "Regression"
@@ -296,7 +296,7 @@ params:
         image: /images/projects/bank.png
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/bankcampaign
+          link: https://vadiraj-tau.netlify.app/blogs/bankcampaign
         badges:
           - "Hadoop"
           - "Spark"
@@ -314,7 +314,7 @@ params:
         image: /images/projects/real-estate.jpg
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/housingEDA/
+          link: https://vadiraj-tau.netlify.app/blogs/housingEDA/
         badges:
           - "Data Wrangling"
           - "Data Analysis"
@@ -333,7 +333,7 @@ params:
         image: /images/projects/a2.jpg
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/tic_tac_toe/
+          link: https://vadiraj-tau.netlify.app/blogs/tic_tac_toe/
         badges:
           - "Python"
           - "Interactive Game"
@@ -349,7 +349,7 @@ params:
           #name: Demo
           #link: https://vadiraj-13.github.io/lab-in-vr.github.io/
           name: Open
-          link: https://vra-ml.netlify.app/blogs/vrblog/
+          link: https://vadiraj-tau.netlify.app/blogs/vrblog/
         badges:
           - "Virtual Reality"
           - "Remote Learning"
@@ -362,7 +362,7 @@ params:
         image: /images/projects/msl.jpg
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/msl/
+          link: https://vadiraj-tau.netlify.app/blogs/msl/
         badges:
           - "Hardware Project"
           - "Automation"
@@ -373,7 +373,7 @@ params:
         image: /images/projects/ra.jpg
         featured:
           name: Open
-          link: https://vra-ml.netlify.app/blogs/ra/
+          link: https://vadiraj-tau.netlify.app/blogs/ra/
         badges:
           - "Robotic Arm"
           - "Servo Motor"
