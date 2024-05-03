@@ -279,7 +279,7 @@ params:
         image: /images/projects/cricket1.jpg
         featured:
           name: Open
-          link: https:/vadiraj-tau.netlify.app/blogs/centuries
+          link: https://vadiraj-tau.netlify.app/blogs/centuries/
         badges:
           - "Machine Learning"
           - "Regression"
